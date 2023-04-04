@@ -1,0 +1,30 @@
+Name
+Gross Margin
+
+Definition
+Gross margin expressed as percentage (%) of Revenue
+
+Calculation Rule
+(Revenue - Total Expense)/(Revenue)
+
+Target to reach
+34
+
+Descriptive Example
+This KPI is closely tracked by everyone 
+
+KPIs & Measure calc type
+On-the-fly
+
+uses Business Assets
+ - General Ledger
+ - Accounts List
+ - Divisions List
+
+Grouped by Dimensions Business Term
+product line
+division
+month
+quarter
+year
+

@@ -1,0 +1,27 @@
+Name
+% of trained employees
+
+Definition
+Percentage of long-term employees trained at least once on Learning For Development platform during the current year.
+
+Calculation Rule
+Number of trained employees / End of year Statutory hedcount
+
+Target to reach
+60
+
+Descriptive Example
+This KPI is being followed by the government especially per age-range, the target is at 60% by the end of year
+
+KPIs & Measure calc type
+On-the-fly
+
+uses Business Assets
+ - End of Year Statutory Headcount
+ - Number of Trained Employees
+
+Grouped by Dimensions Business Term
+age-range
+division
+state
+
